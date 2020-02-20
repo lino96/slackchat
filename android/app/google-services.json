@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "67819983253",
+    "firebase_url": "https://slackchat-ef94e.firebaseio.com",
+    "project_id": "slackchat-ef94e",
+    "storage_bucket": "slackchat-ef94e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67819983253:android:06d5d11ef906d66e53a69c",
+        "android_client_info": {
+          "package_name": "com.example.slackchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67819983253-n8uqknkjlje5fs8vhq0m0vvaaa3f9vd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.slackchat",
+            "certificate_hash": "2fcfb4fd77dc555f068e87a549dc3fb864ca1699"
+          }
+        },
+        {
+          "client_id": "67819983253-96i65io4dqi9ct5fd2pcgr3ufol7f794.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdPL-2QMlkWqlWfEtFXdp6Nk70DdLGodE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67819983253-96i65io4dqi9ct5fd2pcgr3ufol7f794.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
